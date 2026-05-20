@@ -1,0 +1,201 @@
+ID da Estação,Endereço,Tipo de Carregador,Custo (USD/kWh),Disponibilidade,Distância da Cidade (km),Uso Médio (usuários/dia),Operadora da Estação,Capacidade de Carregamento (kW),Tipos de Conector,Ano de Instalação,Fonte de Energia Renovável,Avaliações (Nota),Vagas de Estacionamento,Frequência de Manutenção
+EVS00001,"4826 Random Rd, City 98, Country",AC Nível 2,0.27,9:00-18:00,4.95,35,EVgo,350,"CCS, CHAdeMO",2013,Sim,4.0,7,Anual
+EVS00002,"8970 San Francisco Ave, San Francisco",Carregador Rápido DC,0.19,2026-07-24 0:00:00,4.96,83,EVgo,350,"Tesla, Type 2",2010,Sim,2026-09-03 0:00:00,2,Mensal
+EVS00003,"5974 Bangkok Ave, Bangkok",AC Nível 2,0.48,6:00-22:00,8.54,24,ChargePoint,50,"Type 2, CCS",2019,Não,2026-06-03 0:00:00,9,Anual
+EVS00004,"6995 Toronto Ave, Toronto",AC Level 1,0.41,9:00-18:00,13.28,70,Greenlots,350,Type 2,2010,Sim,2026-02-04 0:00:00,7,Mensal
+EVS00005,"5704 Mumbai Ave, Mumbai",AC Nível 2,0.11,9:00-18:00,9.76,19,EVgo,350,CCS,2015,Sim,2026-07-03 0:00:00,6,Anual
+EVS00006,"1545 São Paulo Ave, São Paulo",AC Nível 2,0.22,6:00-22:00,2026-02-02 0:00:00,39,Ionity,350,Tesla,2016,Sim,2026-02-03 0:00:00,9,Trimestral
+EVS00007,"1390 Moscow Ave, Moscow",AC Level 1,0.4,2026-07-24 0:00:00,2.68,89,ChargePoint,350,"Tesla, CCS",2011,Sim,4.0,4,Anual
+EVS00008,"7684 Bangkok Ave, Bangkok",AC Nível 2,0.26,2026-07-24 0:00:00,3.63,72,Ionity,350,Tesla,2013,Sim,2026-03-04 0:00:00,9,Anual
+EVS00009,"6203 Chicago Ave, Chicago",AC Nível 2,0.49,9:00-18:00,6.68,68,Greenlots,350,CCS,2013,Não,2026-04-03 0:00:00,1,Mensal
+EVS00010,"4339 Beijing Ave, Beijing",AC Nível 2,0.37,9:00-18:00,19.13,82,Tesla,150,"CCS, Tesla",2023,Não,2026-04-04 0:00:00,5,Trimestral
+EVS00011,"7123 Random Rd, City 463, Country",AC Level 1,0.39,9:00-18:00,17.42,59,EVgo,22,"Tesla, CHAdeMO",2013,Não,2026-07-03 0:00:00,5,Trimestral
+EVS00012,"3932 Moscow Ave, Moscow",AC Level 1,0.17,6:00-22:00,1.88,18,Greenlots,150,"CHAdeMO, CCS",2016,Sim,4.0,5,Anual
+EVS00013,"9250 Berlin Ave, Berlin",AC Level 1,0.16,9:00-18:00,11.77,73,ChargePoint,22,Tesla,2012,Não,4.0,2,Trimestral
+EVS00014,"9047 Chicago Ave, Chicago",AC Nível 2,0.16,2026-07-24 0:00:00,3.21,66,Tesla,50,Tesla,2012,Sim,2026-05-03 0:00:00,9,Anual
+EVS00015,"3451 Dubai Ave, Dubai",AC Nível 2,0.41,2026-07-24 0:00:00,2026-07-16 0:00:00,46,EVgo,350,"CCS, Tesla",2013,Sim,2026-04-03 0:00:00,10,Trimestral
+EVS00016,"3518 Dubai Ave, Dubai",AC Nível 2,0.34,6:00-22:00,15.84,89,EVgo,22,CCS,2020,Não,2026-09-03 0:00:00,9,Trimestral
+EVS00017,"3181 Bangkok Ave, Bangkok",AC Level 1,0.17,6:00-22:00,13.18,28,Ionity,350,"CCS, CHAdeMO",2018,Não,4.0,3,Anual
+EVS00018,"4733 San Francisco Ave, San Francisco",AC Level 1,0.44,2026-07-24 0:00:00,2026-05-02 0:00:00,60,ChargePoint,150,CHAdeMO,2023,Não,2026-09-04 0:00:00,7,Anual
+EVS00019,"9257 Seoul Ave, Seoul",AC Level 1,0.25,9:00-18:00,7.35,29,Tesla,350,"Type 2, CHAdeMO",2017,Não,2026-01-04 0:00:00,2,Mensal
+EVS00020,"7288 Mexico City Ave, Mexico City",Carregador Rápido DC,0.25,6:00-22:00,0.73,12,Tesla,350,Type 2,2023,Sim,2026-02-03 0:00:00,5,Anual
+EVS00021,"6470 Random Rd, City 207, Country",Carregador Rápido DC,0.3,6:00-22:00,10.43,43,Ionity,150,"CHAdeMO, Tesla",2016,Sim,2026-03-03 0:00:00,10,Trimestral
+EVS00022,"9338 Moscow Ave, Moscow",AC Nível 2,0.1,2026-07-24 0:00:00,5.45,47,Tesla,350,CCS,2020,Não,2026-07-04 0:00:00,5,Trimestral
+EVS00023,"1194 Cape Town Ave, Cape Town",AC Nível 2,0.43,9:00-18:00,2026-05-15 0:00:00,14,Greenlots,350,"CHAdeMO, Tesla",2020,Sim,2026-02-04 0:00:00,10,Anual
+EVS00024,"128 Berlin Ave, Berlin",Carregador Rápido DC,0.21,2026-07-24 0:00:00,9.92,52,Tesla,22,CHAdeMO,2023,Sim,2026-04-04 0:00:00,2,Anual
+EVS00025,"1788 Chicago Ave, Chicago",AC Level 1,0.5,9:00-18:00,4.71,67,ChargePoint,50,"CCS, Tesla",2021,Não,2026-07-04 0:00:00,7,Trimestral
+EVS00026,"6257 Beijing Ave, Beijing",Carregador Rápido DC,0.47,2026-07-24 0:00:00,2026-03-08 0:00:00,99,Greenlots,50,Type 2,2015,Não,2026-01-04 0:00:00,1,Mensal
+EVS00027,"5641 Bangkok Ave, Bangkok",Carregador Rápido DC,0.5,9:00-18:00,17.76,25,ChargePoint,150,Tesla,2020,Não,2026-01-04 0:00:00,7,Anual
+EVS00028,"1145 São Paulo Ave, São Paulo",AC Level 1,0.25,2026-07-24 0:00:00,13.65,52,Tesla,50,CCS,2014,Não,2026-07-04 0:00:00,3,Trimestral
+EVS00029,"3343 Sydney Ave, Sydney",AC Level 1,0.45,6:00-22:00,8.36,72,Ionity,22,Tesla,2017,Não,2026-08-04 0:00:00,9,Anual
+EVS00030,"7835 Beijing Ave, Beijing",Carregador Rápido DC,0.2,6:00-22:00,5.52,27,EVgo,50,"CHAdeMO, Type 2",2013,Não,3.0,5,Anual
+EVS00031,"8491 Random Rd, City 59, Country",AC Nível 2,0.17,2026-07-24 0:00:00,9.13,36,Tesla,22,"CHAdeMO, CCS",2018,Sim,2026-06-03 0:00:00,5,Trimestral
+EVS00032,"3787 Beijing Ave, Beijing",AC Nível 2,0.19,9:00-18:00,18.44,90,Tesla,150,"Tesla, Type 2",2020,Sim,2026-01-04 0:00:00,3,Trimestral
+EVS00033,"5423 São Paulo Ave, São Paulo",Carregador Rápido DC,0.46,2026-07-24 0:00:00,18.39,97,Tesla,350,"CCS, Type 2",2018,Não,2026-07-03 0:00:00,7,Mensal
+EVS00034,"8032 Beijing Ave, Beijing",AC Level 1,0.21,6:00-22:00,0.84,59,EVgo,150,"CHAdeMO, CCS",2018,Sim,2026-07-03 0:00:00,9,Mensal
+EVS00035,"9647 Chicago Ave, Chicago",AC Nível 2,0.22,9:00-18:00,2026-07-09 0:00:00,16,Ionity,50,CHAdeMO,2015,Sim,2026-04-04 0:00:00,2,Anual
+EVS00036,"1648 Toronto Ave, Toronto",AC Nível 2,0.39,6:00-22:00,10.84,21,Greenlots,22,"Type 2, Tesla",2012,Sim,2026-07-04 0:00:00,4,Mensal
+EVS00037,"880 Bangkok Ave, Bangkok",AC Level 1,0.29,9:00-18:00,1.28,50,Greenlots,350,Type 2,2016,Não,2026-03-04 0:00:00,1,Trimestral
+EVS00038,"8960 Sydney Ave, Sydney",AC Level 1,0.13,9:00-18:00,2026-06-19 0:00:00,61,Ionity,22,CHAdeMO,2018,Sim,2026-02-04 0:00:00,4,Trimestral
+EVS00039,"2131 Beijing Ave, Beijing",Carregador Rápido DC,0.37,2026-07-24 0:00:00,15.63,69,Ionity,350,"CCS, CHAdeMO",2023,Sim,2026-02-04 0:00:00,3,Anual
+EVS00040,"6005 Cape Town Ave, Cape Town",AC Nível 2,0.41,2026-07-24 0:00:00,14.62,15,Tesla,50,"CHAdeMO, Tesla",2012,Não,2026-09-04 0:00:00,1,Anual
+EVS00041,"1309 Random Rd, City 47, Country",AC Level 1,0.44,6:00-22:00,2026-03-02 0:00:00,20,EVgo,350,Tesla,2014,Não,5.0,3,Anual
+EVS00042,"2960 Chicago Ave, Chicago",Carregador Rápido DC,0.39,9:00-18:00,19.63,14,Tesla,50,"Type 2, Tesla",2023,Não,2026-08-04 0:00:00,3,Mensal
+EVS00043,"1916 Dubai Ave, Dubai",AC Level 1,0.27,6:00-22:00,2026-06-05 0:00:00,73,Greenlots,50,"Tesla, CHAdeMO",2012,Sim,2026-03-04 0:00:00,8,Trimestral
+EVS00044,"5156 Seoul Ave, Seoul",AC Level 1,0.36,9:00-18:00,2.38,96,ChargePoint,50,CCS,2019,Não,2026-08-03 0:00:00,3,Mensal
+EVS00045,"7799 Sydney Ave, Sydney",AC Nível 2,0.4,9:00-18:00,19.67,78,Ionity,22,Tesla,2018,Sim,2026-04-04 0:00:00,3,Trimestral
+EVS00046,"8397 Chicago Ave, Chicago",Carregador Rápido DC,0.22,9:00-18:00,2.58,12,EVgo,50,Tesla,2020,Não,2026-06-03 0:00:00,3,Trimestral
+EVS00047,"2970 Mumbai Ave, Mumbai",AC Level 1,0.35,2026-07-24 0:00:00,2026-04-19 0:00:00,68,Ionity,50,"CCS, Tesla",2021,Sim,3.0,9,Trimestral
+EVS00048,"4355 Sydney Ave, Sydney",Carregador Rápido DC,0.13,2026-07-24 0:00:00,2.31,56,ChargePoint,150,CHAdeMO,2022,Não,2026-05-03 0:00:00,4,Anual
+EVS00049,"689 Chicago Ave, Chicago",AC Level 1,0.18,9:00-18:00,19.26,40,ChargePoint,150,"CHAdeMO, CCS",2011,Sim,2026-08-03 0:00:00,8,Mensal
+EVS00050,"8531 Los Angeles Ave, Los Angeles",AC Nível 2,0.47,2026-07-24 0:00:00,2.49,26,ChargePoint,150,Tesla,2023,Sim,2026-03-04 0:00:00,9,Mensal
+EVS00051,"7905 Random Rd, City 102, Country",AC Level 1,0.45,2026-07-24 0:00:00,2.29,75,EVgo,50,CHAdeMO,2022,Não,5.0,9,Anual
+EVS00052,"8806 Berlin Ave, Berlin",AC Nível 2,0.33,9:00-18:00,8.56,50,ChargePoint,50,"CHAdeMO, CCS",2011,Não,2026-04-03 0:00:00,3,Mensal
+EVS00053,"4130 Moscow Ave, Moscow",AC Nível 2,0.49,9:00-18:00,2026-09-03 0:00:00,79,Greenlots,22,"CCS, Tesla",2017,Não,2026-08-03 0:00:00,4,Anual
+EVS00054,"6541 Chicago Ave, Chicago",Carregador Rápido DC,0.37,2026-07-24 0:00:00,1.98,79,Ionity,50,CHAdeMO,2016,Sim,2026-07-04 0:00:00,4,Anual
+EVS00055,"4005 Seoul Ave, Seoul",AC Level 1,0.13,2026-07-24 0:00:00,9.16,19,Tesla,150,CHAdeMO,2013,Sim,2026-05-03 0:00:00,5,Trimestral
+EVS00056,"5574 Mumbai Ave, Mumbai",AC Nível 2,0.18,6:00-22:00,11.91,50,ChargePoint,150,CCS,2013,Sim,2026-02-04 0:00:00,4,Trimestral
+EVS00057,"6085 Dubai Ave, Dubai",Carregador Rápido DC,0.42,9:00-18:00,15.85,67,Greenlots,50,CHAdeMO,2018,Não,2026-05-04 0:00:00,8,Trimestral
+EVS00058,"4787 Seoul Ave, Seoul",AC Level 1,0.41,9:00-18:00,13.14,71,EVgo,150,"Tesla, CCS",2012,Sim,4.0,4,Mensal
+EVS00059,"4378 Chicago Ave, Chicago",Carregador Rápido DC,0.18,2026-07-24 0:00:00,6.73,13,EVgo,350,CHAdeMO,2022,Não,2026-05-03 0:00:00,9,Trimestral
+EVS00060,"16 Chicago Ave, Chicago",AC Nível 2,0.3,9:00-18:00,6.78,26,Tesla,22,Tesla,2010,Sim,2026-01-03 0:00:00,4,Mensal
+EVS00061,"5140 Random Rd, City 50, Country",Carregador Rápido DC,0.33,9:00-18:00,2026-04-14 0:00:00,75,Ionity,22,Tesla,2020,Não,2026-06-04 0:00:00,4,Trimestral
+EVS00062,"7833 Cape Town Ave, Cape Town",Carregador Rápido DC,0.23,6:00-22:00,0.68,68,Greenlots,50,Type 2,2023,Sim,2026-09-04 0:00:00,8,Trimestral
+EVS00063,"2876 Chicago Ave, Chicago",Carregador Rápido DC,0.28,9:00-18:00,0.96,49,Greenlots,350,Type 2,2018,Não,2026-08-03 0:00:00,9,Anual
+EVS00064,"5576 Toronto Ave, Toronto",AC Nível 2,0.36,2026-07-24 0:00:00,5.16,31,Ionity,22,Tesla,2018,Sim,2026-03-03 0:00:00,4,Anual
+EVS00065,"335 Dubai Ave, Dubai",Carregador Rápido DC,0.27,2026-07-24 0:00:00,6.58,67,Greenlots,350,"CCS, Type 2",2019,Não,2026-08-04 0:00:00,7,Trimestral
+EVS00066,"9172 Sydney Ave, Sydney",Carregador Rápido DC,0.32,2026-07-24 0:00:00,13.68,31,EVgo,350,Tesla,2013,Sim,2026-06-03 0:00:00,3,Mensal
+EVS00067,"5052 Seoul Ave, Seoul",AC Nível 2,0.45,2026-07-24 0:00:00,8.37,20,Greenlots,150,CHAdeMO,2020,Sim,3.0,3,Mensal
+EVS00068,"6966 Beijing Ave, Beijing",Carregador Rápido DC,0.36,2026-07-24 0:00:00,11.72,43,Tesla,350,"CHAdeMO, Type 2",2015,Não,2026-05-04 0:00:00,3,Trimestral
+EVS00069,"1979 Dubai Ave, Dubai",Carregador Rápido DC,0.14,6:00-22:00,4.71,13,Ionity,50,"Tesla, CCS",2016,Sim,2026-09-03 0:00:00,8,Mensal
+EVS00070,"436 Los Angeles Ave, Los Angeles",Carregador Rápido DC,0.41,6:00-22:00,8.75,31,ChargePoint,150,Tesla,2020,Não,2026-04-04 0:00:00,10,Trimestral
+EVS00071,"6980 Random Rd, City 205, Country",AC Nível 2,0.44,9:00-18:00,2026-03-11 0:00:00,19,Greenlots,50,CCS,2017,Sim,4.0,3,Mensal
+EVS00072,"9085 Cape Town Ave, Cape Town",AC Level 1,0.46,9:00-18:00,4.17,37,Tesla,22,CHAdeMO,2020,Sim,2026-09-04 0:00:00,6,Trimestral
+EVS00073,"1856 Los Angeles Ave, Los Angeles",AC Nível 2,0.34,9:00-18:00,2.35,99,Ionity,22,CCS,2016,Não,2026-04-04 0:00:00,2,Mensal
+EVS00074,"493 Beijing Ave, Beijing",AC Level 1,0.23,2026-07-24 0:00:00,14.31,80,Ionity,350,"Type 2, CHAdeMO",2018,Não,2026-07-04 0:00:00,10,Mensal
+EVS00075,"9969 Beijing Ave, Beijing",Carregador Rápido DC,0.45,6:00-22:00,11.68,46,Greenlots,22,CCS,2017,Sim,2026-06-04 0:00:00,1,Anual
+EVS00076,"3924 São Paulo Ave, São Paulo",AC Nível 2,0.16,2026-07-24 0:00:00,12.25,12,Tesla,50,CCS,2022,Sim,2026-01-03 0:00:00,8,Mensal
+EVS00077,"8503 Bangkok Ave, Bangkok",Carregador Rápido DC,0.46,9:00-18:00,13.81,15,Greenlots,22,CCS,2023,Sim,5.0,10,Mensal
+EVS00078,"8542 Sydney Ave, Sydney",AC Nível 2,0.34,2026-07-24 0:00:00,8.41,100,ChargePoint,350,Tesla,2017,Sim,2026-01-03 0:00:00,5,Mensal
+EVS00079,"3381 Mumbai Ave, Mumbai",Carregador Rápido DC,0.27,6:00-22:00,10.44,75,ChargePoint,350,"CHAdeMO, Tesla",2022,Sim,2026-06-04 0:00:00,2,Anual
+EVS00080,"1935 Los Angeles Ave, Los Angeles",AC Nível 2,0.45,2026-07-24 0:00:00,19.25,99,EVgo,150,"CHAdeMO, Tesla",2021,Sim,2026-07-03 0:00:00,4,Anual
+EVS00081,"7612 Random Rd, City 96, Country",AC Nível 2,0.35,9:00-18:00,5.63,91,EVgo,350,CHAdeMO,2023,Não,2026-01-04 0:00:00,10,Anual
+EVS00082,"9806 Mexico City Ave, Mexico City",Carregador Rápido DC,0.32,2026-07-24 0:00:00,16.79,31,EVgo,50,Type 2,2023,Sim,2026-05-03 0:00:00,4,Trimestral
+EVS00083,"4122 Cape Town Ave, Cape Town",AC Nível 2,0.36,6:00-22:00,16.47,32,Ionity,350,Tesla,2014,Sim,2026-08-03 0:00:00,8,Trimestral
+EVS00084,"6532 Moscow Ave, Moscow",AC Nível 2,0.28,6:00-22:00,13.67,82,ChargePoint,150,Tesla,2010,Sim,2026-08-03 0:00:00,1,Mensal
+EVS00085,"6285 Chicago Ave, Chicago",AC Nível 2,0.13,6:00-22:00,8.18,40,Tesla,50,Tesla,2012,Sim,2026-09-04 0:00:00,9,Mensal
+EVS00086,"1381 Beijing Ave, Beijing",AC Nível 2,0.49,2026-07-24 0:00:00,2026-11-16 0:00:00,99,Tesla,50,"CHAdeMO, Type 2",2011,Sim,2026-06-04 0:00:00,8,Mensal
+EVS00087,"6829 Chicago Ave, Chicago",AC Nível 2,0.2,6:00-22:00,3.17,91,EVgo,50,Type 2,2019,Não,2026-05-04 0:00:00,10,Mensal
+EVS00088,"760 Cape Town Ave, Cape Town",Carregador Rápido DC,0.37,6:00-22:00,2026-09-19 0:00:00,68,Ionity,350,Type 2,2022,Não,2026-04-04 0:00:00,6,Mensal
+EVS00089,"7708 Toronto Ave, Toronto",AC Level 1,0.16,9:00-18:00,2026-08-03 0:00:00,99,ChargePoint,50,CHAdeMO,2018,Não,2026-07-03 0:00:00,6,Trimestral
+EVS00090,"4669 Moscow Ave, Moscow",AC Nível 2,0.47,6:00-22:00,14.45,11,EVgo,150,"Type 2, Tesla",2016,Sim,2026-02-04 0:00:00,3,Trimestral
+EVS00091,"9222 Random Rd, City 384, Country",AC Level 1,0.19,2026-07-24 0:00:00,11.59,98,Ionity,150,Tesla,2015,Sim,2026-03-04 0:00:00,10,Mensal
+EVS00092,"7476 San Francisco Ave, San Francisco",AC Level 1,0.39,2026-07-24 0:00:00,13.83,58,EVgo,350,"Tesla, CCS",2018,Sim,2026-07-03 0:00:00,3,Anual
+EVS00093,"6288 Berlin Ave, Berlin",AC Level 1,0.11,9:00-18:00,6.63,18,Greenlots,350,"CHAdeMO, Type 2",2022,Sim,2026-09-04 0:00:00,8,Anual
+EVS00094,"9796 Berlin Ave, Berlin",AC Nível 2,0.3,9:00-18:00,5.57,79,Tesla,50,CCS,2018,Sim,2026-05-03 0:00:00,7,Mensal
+EVS00095,"2173 Bangkok Ave, Bangkok",AC Level 1,0.3,6:00-22:00,10.97,67,Greenlots,22,CHAdeMO,2021,Não,2026-09-03 0:00:00,3,Trimestral
+EVS00096,"3633 São Paulo Ave, São Paulo",AC Level 1,0.11,2026-07-24 0:00:00,18.49,85,ChargePoint,50,"Type 2, CHAdeMO",2014,Sim,2026-09-04 0:00:00,2,Mensal
+EVS00097,"8984 Los Angeles Ave, Los Angeles",AC Nível 2,0.44,2026-07-24 0:00:00,2026-05-09 0:00:00,25,Tesla,22,"CCS, CHAdeMO",2020,Sim,2026-05-04 0:00:00,5,Trimestral
+EVS00098,"7371 Beijing Ave, Beijing",Carregador Rápido DC,0.2,6:00-22:00,10.82,85,Tesla,350,"CHAdeMO, Type 2",2023,Não,2026-08-03 0:00:00,5,Trimestral
+EVS00099,"8983 Dubai Ave, Dubai",AC Nível 2,0.41,9:00-18:00,4.43,17,Tesla,350,"Type 2, CCS",2015,Sim,2026-09-03 0:00:00,8,Trimestral
+EVS00100,"1750 Seoul Ave, Seoul",AC Nível 2,0.41,9:00-18:00,3.0,54,ChargePoint,150,Type 2,2018,Não,2026-08-04 0:00:00,10,Mensal
+EVS00101,"7940 Random Rd, City 40, Country",Carregador Rápido DC,0.12,2026-07-24 0:00:00,2026-06-03 0:00:00,22,ChargePoint,50,Tesla,2013,Sim,2026-02-03 0:00:00,1,Trimestral
+EVS00102,"7022 Beijing Ave, Beijing",Carregador Rápido DC,0.12,2026-07-24 0:00:00,17.81,41,Ionity,22,"CHAdeMO, Type 2",2023,Não,2026-02-03 0:00:00,4,Mensal
+EVS00103,"5496 Seoul Ave, Seoul",AC Level 1,0.32,9:00-18:00,8.26,20,Greenlots,22,Type 2,2010,Não,2026-03-03 0:00:00,7,Mensal
+EVS00104,"4326 Toronto Ave, Toronto",AC Nível 2,0.14,6:00-22:00,19.64,93,Ionity,22,"CCS, Tesla",2020,Não,2026-04-03 0:00:00,5,Anual
+EVS00105,"1236 Mexico City Ave, Mexico City",AC Nível 2,0.26,2026-07-24 0:00:00,3.62,76,EVgo,150,Type 2,2018,Não,2026-04-04 0:00:00,10,Trimestral
+EVS00106,"2317 Mexico City Ave, Mexico City",AC Nível 2,0.29,9:00-18:00,0.56,47,ChargePoint,350,Type 2,2012,Não,2026-02-03 0:00:00,1,Mensal
+EVS00107,"7328 Cape Town Ave, Cape Town",Carregador Rápido DC,0.31,6:00-22:00,12.84,96,ChargePoint,22,Tesla,2011,Não,2026-08-04 0:00:00,7,Anual
+EVS00108,"9772 Mumbai Ave, Mumbai",AC Nível 2,0.11,6:00-22:00,3.14,43,Tesla,350,CCS,2020,Sim,5.0,7,Anual
+EVS00109,"5042 Moscow Ave, Moscow",Carregador Rápido DC,0.19,2026-07-24 0:00:00,17.93,62,Ionity,50,CCS,2018,Não,2026-03-03 0:00:00,7,Trimestral
+EVS00110,"7308 Beijing Ave, Beijing",AC Level 1,0.19,9:00-18:00,3.73,68,EVgo,350,"CHAdeMO, Type 2",2018,Sim,2026-03-04 0:00:00,9,Trimestral
+EVS00111,"7129 Random Rd, City 300, Country",Carregador Rápido DC,0.15,6:00-22:00,7.14,43,Ionity,350,Type 2,2010,Sim,2026-02-03 0:00:00,7,Trimestral
+EVS00112,"4833 Chicago Ave, Chicago",AC Level 1,0.35,6:00-22:00,2026-02-02 0:00:00,48,Greenlots,50,Tesla,2017,Sim,2026-01-04 0:00:00,2,Trimestral
+EVS00113,"563 Bangkok Ave, Bangkok",AC Nível 2,0.27,2026-07-24 0:00:00,17.19,22,ChargePoint,150,"CCS, CHAdeMO",2014,Sim,2026-02-03 0:00:00,10,Anual
+EVS00114,"1666 Mumbai Ave, Mumbai",AC Nível 2,0.39,6:00-22:00,18.54,19,ChargePoint,50,"Tesla, Type 2",2022,Sim,2026-05-03 0:00:00,9,Trimestral
+EVS00115,"3505 Seoul Ave, Seoul",AC Nível 2,0.31,6:00-22:00,2026-12-09 0:00:00,59,Greenlots,50,"Tesla, Type 2",2018,Não,2026-04-03 0:00:00,4,Mensal
+EVS00116,"8657 Chicago Ave, Chicago",AC Nível 2,0.3,6:00-22:00,1.96,57,ChargePoint,50,Tesla,2017,Sim,2026-09-04 0:00:00,1,Anual
+EVS00117,"2491 Beijing Ave, Beijing",AC Nível 2,0.37,6:00-22:00,6.45,44,Ionity,22,"CHAdeMO, CCS",2010,Não,2026-01-04 0:00:00,7,Anual
+EVS00118,"7486 Dubai Ave, Dubai",Carregador Rápido DC,0.17,2026-07-24 0:00:00,13.63,89,Tesla,22,CCS,2015,Não,2026-04-04 0:00:00,8,Trimestral
+EVS00119,"157 Dubai Ave, Dubai",AC Nível 2,0.18,9:00-18:00,18.85,44,Greenlots,50,"CCS, CHAdeMO",2017,Sim,2026-09-03 0:00:00,6,Mensal
+EVS00120,"3530 Sydney Ave, Sydney",AC Nível 2,0.28,2026-07-24 0:00:00,11.27,62,Tesla,150,"Type 2, CHAdeMO",2023,Não,2026-01-03 0:00:00,9,Anual
+EVS00121,"950 Random Rd, City 136, Country",Carregador Rápido DC,0.4,2026-07-24 0:00:00,6.67,92,Tesla,150,"CCS, Type 2",2017,Sim,2026-06-03 0:00:00,3,Anual
+EVS00122,"170 Los Angeles Ave, Los Angeles",AC Nível 2,0.29,9:00-18:00,2026-06-18 0:00:00,57,Greenlots,50,CCS,2021,Sim,2026-03-03 0:00:00,2,Mensal
+EVS00123,"8450 São Paulo Ave, São Paulo",AC Nível 2,0.21,6:00-22:00,7.71,62,Tesla,50,Type 2,2021,Sim,2026-07-03 0:00:00,7,Trimestral
+EVS00124,"5746 Moscow Ave, Moscow",AC Nível 2,0.46,2026-07-24 0:00:00,8.61,83,EVgo,50,"Tesla, CHAdeMO",2019,Sim,2026-05-04 0:00:00,6,Mensal
+EVS00125,"5550 Sydney Ave, Sydney",Carregador Rápido DC,0.48,6:00-22:00,2026-06-14 0:00:00,33,Tesla,50,"CHAdeMO, CCS",2022,Não,2026-01-03 0:00:00,1,Mensal
+EVS00126,"7503 Seoul Ave, Seoul",AC Level 1,0.47,2026-07-24 0:00:00,2026-08-14 0:00:00,45,Tesla,150,"Type 2, Tesla",2021,Sim,2026-03-04 0:00:00,10,Anual
+EVS00127,"6276 Mexico City Ave, Mexico City",Carregador Rápido DC,0.21,6:00-22:00,5.86,49,Ionity,22,CCS,2012,Não,2026-02-04 0:00:00,8,Trimestral
+EVS00128,"6208 Sydney Ave, Sydney",AC Nível 2,0.16,2026-07-24 0:00:00,15.95,71,Ionity,50,CCS,2013,Não,2026-01-04 0:00:00,6,Anual
+EVS00129,"3833 Beijing Ave, Beijing",AC Level 1,0.1,6:00-22:00,11.77,66,Ionity,22,"CCS, Type 2",2021,Sim,2026-03-04 0:00:00,4,Trimestral
+EVS00130,"4948 Chicago Ave, Chicago",Carregador Rápido DC,0.35,2026-07-24 0:00:00,10.65,58,EVgo,150,CCS,2013,Sim,4.0,4,Anual
+EVS00131,"8806 Random Rd, City 293, Country",AC Level 1,0.16,6:00-22:00,2026-03-16 0:00:00,28,Tesla,50,CCS,2012,Sim,2026-05-04 0:00:00,1,Anual
+EVS00132,"2642 Chicago Ave, Chicago",AC Level 1,0.27,9:00-18:00,4.99,32,EVgo,150,CCS,2016,Não,2026-09-04 0:00:00,1,Trimestral
+EVS00133,"1811 Dubai Ave, Dubai",Carregador Rápido DC,0.43,6:00-22:00,2.45,37,EVgo,22,Tesla,2014,Sim,2026-08-04 0:00:00,4,Mensal
+EVS00134,"3495 Chicago Ave, Chicago",AC Level 1,0.33,2026-07-24 0:00:00,2026-03-09 0:00:00,26,Greenlots,50,"Tesla, CCS",2017,Não,2026-05-04 0:00:00,8,Mensal
+EVS00135,"821 Mumbai Ave, Mumbai",Carregador Rápido DC,0.25,6:00-22:00,2026-06-06 0:00:00,45,Greenlots,350,"Tesla, Type 2",2017,Não,2026-03-04 0:00:00,10,Trimestral
+EVS00136,"6193 Sydney Ave, Sydney",AC Level 1,0.34,6:00-22:00,5.92,30,Tesla,350,"CHAdeMO, Tesla",2010,Não,2026-06-04 0:00:00,4,Trimestral
+EVS00137,"3078 Cape Town Ave, Cape Town",AC Level 1,0.41,9:00-18:00,0.59,37,Ionity,350,Type 2,2020,Sim,2026-04-03 0:00:00,4,Trimestral
+EVS00138,"4542 Toronto Ave, Toronto",Carregador Rápido DC,0.33,6:00-22:00,18.44,98,Tesla,22,"CHAdeMO, CCS",2019,Sim,2026-07-04 0:00:00,2,Trimestral
+EVS00139,"852 Beijing Ave, Beijing",AC Level 1,0.34,6:00-22:00,12.54,94,Ionity,22,Type 2,2016,Sim,5.0,3,Trimestral
+EVS00140,"5698 Cape Town Ave, Cape Town",AC Nível 2,0.5,6:00-22:00,6.97,76,Tesla,350,CCS,2011,Sim,2026-03-04 0:00:00,4,Mensal
+EVS00141,"8709 Random Rd, City 424, Country",AC Level 1,0.35,6:00-22:00,2026-03-13 0:00:00,87,Tesla,22,"CCS, Type 2",2010,Não,2026-07-04 0:00:00,6,Trimestral
+EVS00142,"3638 Beijing Ave, Beijing",AC Level 1,0.11,2026-07-24 0:00:00,8.57,85,ChargePoint,150,CCS,2022,Não,2026-04-04 0:00:00,10,Mensal
+EVS00143,"4783 Cape Town Ave, Cape Town",AC Nível 2,0.44,6:00-22:00,0.74,14,ChargePoint,50,"Type 2, CCS",2023,Não,2026-04-03 0:00:00,8,Mensal
+EVS00144,"7845 Toronto Ave, Toronto",Carregador Rápido DC,0.15,6:00-22:00,14.65,80,Greenlots,150,CCS,2017,Sim,2026-01-04 0:00:00,4,Anual
+EVS00145,"3962 Moscow Ave, Moscow",AC Level 1,0.5,2026-07-24 0:00:00,10.27,34,Greenlots,350,"CCS, Tesla",2012,Sim,2026-04-04 0:00:00,9,Anual
+EVS00146,"7670 São Paulo Ave, São Paulo",Carregador Rápido DC,0.2,2026-07-24 0:00:00,18.53,33,Greenlots,50,CHAdeMO,2010,Sim,2026-01-04 0:00:00,3,Anual
+EVS00147,"642 Bangkok Ave, Bangkok",AC Level 1,0.39,6:00-22:00,14.29,42,ChargePoint,350,Tesla,2011,Sim,2026-01-04 0:00:00,9,Trimestral
+EVS00148,"668 Berlin Ave, Berlin",AC Level 1,0.41,6:00-22:00,0.64,52,ChargePoint,150,Tesla,2011,Não,5.0,6,Mensal
+EVS00149,"2735 Mexico City Ave, Mexico City",AC Nível 2,0.26,2026-07-24 0:00:00,2026-03-10 0:00:00,75,Tesla,50,"CHAdeMO, Type 2",2018,Sim,2026-08-04 0:00:00,9,Trimestral
+EVS00150,"8002 San Francisco Ave, San Francisco",AC Nível 2,0.5,6:00-22:00,13.46,95,EVgo,22,Type 2,2017,Não,5.0,1,Mensal
+EVS00151,"9467 Random Rd, City 394, Country",AC Nível 2,0.5,9:00-18:00,19.37,22,Ionity,50,CCS,2013,Sim,2026-02-03 0:00:00,7,Trimestral
+EVS00152,"9559 Berlin Ave, Berlin",AC Nível 2,0.25,9:00-18:00,2026-02-11 0:00:00,92,Greenlots,22,"CCS, Tesla",2017,Não,2026-01-04 0:00:00,3,Mensal
+EVS00153,"1810 Cape Town Ave, Cape Town",AC Nível 2,0.33,6:00-22:00,7.88,90,ChargePoint,150,"Tesla, CHAdeMO",2015,Não,2026-06-04 0:00:00,1,Trimestral
+EVS00154,"8891 Toronto Ave, Toronto",AC Nível 2,0.33,2026-07-24 0:00:00,3.85,39,Greenlots,150,"CHAdeMO, Tesla",2019,Sim,2026-07-04 0:00:00,5,Trimestral
+EVS00155,"866 Dubai Ave, Dubai",AC Nível 2,0.11,6:00-22:00,5.51,93,Tesla,50,"Type 2, CCS",2019,Sim,2026-03-04 0:00:00,4,Anual
+EVS00156,"8440 Dubai Ave, Dubai",AC Nível 2,0.45,2026-07-24 0:00:00,9.78,23,Greenlots,350,"CHAdeMO, Tesla",2020,Não,2026-07-03 0:00:00,10,Trimestral
+EVS00157,"4259 Sydney Ave, Sydney",AC Nível 2,0.22,2026-07-24 0:00:00,4.19,18,Tesla,22,Tesla,2022,Sim,2026-09-04 0:00:00,9,Mensal
+EVS00158,"8145 Bangkok Ave, Bangkok",Carregador Rápido DC,0.13,6:00-22:00,14.81,42,Greenlots,150,CCS,2011,Sim,2026-09-04 0:00:00,4,Mensal
+EVS00159,"2502 Chicago Ave, Chicago",AC Nível 2,0.37,9:00-18:00,13.61,41,Greenlots,50,CHAdeMO,2021,Não,4.0,6,Anual
+EVS00160,"5969 Beijing Ave, Beijing",Carregador Rápido DC,0.39,6:00-22:00,17.32,32,Ionity,350,Tesla,2010,Não,2026-09-04 0:00:00,3,Mensal
+EVS00161,"4227 Random Rd, City 428, Country",AC Nível 2,0.12,9:00-18:00,14.91,53,ChargePoint,22,"CCS, Tesla",2016,Não,2026-09-04 0:00:00,3,Anual
+EVS00162,"273 San Francisco Ave, San Francisco",Carregador Rápido DC,0.3,2026-07-24 0:00:00,13.53,30,Ionity,150,CCS,2018,Sim,2026-05-04 0:00:00,3,Anual
+EVS00163,"9567 Moscow Ave, Moscow",Carregador Rápido DC,0.29,9:00-18:00,2026-04-18 0:00:00,17,Tesla,350,Tesla,2021,Não,2026-08-03 0:00:00,1,Trimestral
+EVS00164,"2651 Moscow Ave, Moscow",AC Level 1,0.12,6:00-22:00,2026-05-16 0:00:00,52,Greenlots,22,Tesla,2015,Sim,4.0,2,Anual
+EVS00165,"9305 Los Angeles Ave, Los Angeles",AC Level 1,0.46,9:00-18:00,18.56,100,ChargePoint,50,"CHAdeMO, CCS",2022,Sim,2026-02-04 0:00:00,9,Mensal
+EVS00166,"3107 Beijing Ave, Beijing",AC Level 1,0.15,6:00-22:00,16.48,70,Tesla,350,"CCS, CHAdeMO",2013,Não,2026-07-03 0:00:00,9,Trimestral
+EVS00167,"9001 Seoul Ave, Seoul",Carregador Rápido DC,0.33,2026-07-24 0:00:00,2026-01-04 0:00:00,53,EVgo,150,CHAdeMO,2014,Sim,2026-07-04 0:00:00,5,Trimestral
+EVS00168,"2338 San Francisco Ave, San Francisco",Carregador Rápido DC,0.13,9:00-18:00,16.32,69,Ionity,150,"Tesla, CHAdeMO",2015,Sim,2026-04-03 0:00:00,7,Mensal
+EVS00169,"7216 Los Angeles Ave, Los Angeles",Carregador Rápido DC,0.47,6:00-22:00,2026-04-19 0:00:00,37,Ionity,22,CCS,2013,Sim,2026-08-03 0:00:00,1,Mensal
+EVS00170,"3420 Sydney Ave, Sydney",AC Nível 2,0.38,2026-07-24 0:00:00,12.78,94,Greenlots,350,CCS,2012,Não,2026-06-04 0:00:00,4,Anual
+EVS00171,"8513 Random Rd, City 75, Country",AC Level 1,0.17,9:00-18:00,6.24,21,EVgo,150,Type 2,2015,Sim,2026-02-03 0:00:00,5,Anual
+EVS00172,"7508 Seoul Ave, Seoul",Carregador Rápido DC,0.4,2026-07-24 0:00:00,11.93,35,Tesla,350,"CHAdeMO, Type 2",2017,Sim,2026-02-04 0:00:00,4,Anual
+EVS00173,"8034 San Francisco Ave, San Francisco",AC Nível 2,0.19,6:00-22:00,11.19,31,ChargePoint,50,Tesla,2017,Não,2026-03-04 0:00:00,3,Mensal
+EVS00174,"4929 Berlin Ave, Berlin",AC Level 1,0.32,2026-07-24 0:00:00,7.39,45,ChargePoint,22,"CHAdeMO, Tesla",2016,Não,2026-08-04 0:00:00,3,Anual
+EVS00175,"4448 San Francisco Ave, San Francisco",Carregador Rápido DC,0.4,9:00-18:00,2026-08-03 0:00:00,80,EVgo,150,"Type 2, Tesla",2014,Sim,5.0,5,Mensal
+EVS00176,"9513 Seoul Ave, Seoul",Carregador Rápido DC,0.17,2026-07-24 0:00:00,12.86,56,ChargePoint,350,Type 2,2015,Não,2026-01-04 0:00:00,4,Anual
+EVS00177,"7820 Chicago Ave, Chicago",AC Nível 2,0.26,6:00-22:00,14.74,25,ChargePoint,150,"CHAdeMO, Type 2",2010,Sim,2026-04-03 0:00:00,4,Anual
+EVS00178,"3436 Beijing Ave, Beijing",AC Level 1,0.49,9:00-18:00,2.45,56,Greenlots,350,Type 2,2022,Não,2026-04-04 0:00:00,9,Anual
+EVS00179,"4247 Mexico City Ave, Mexico City",AC Nível 2,0.13,2026-07-24 0:00:00,1.96,75,Tesla,150,"CHAdeMO, Type 2",2017,Sim,2026-04-03 0:00:00,3,Anual
+EVS00180,"1592 Moscow Ave, Moscow",AC Nível 2,0.29,9:00-18:00,19.63,77,EVgo,50,"CHAdeMO, Tesla",2017,Sim,2026-03-04 0:00:00,3,Mensal
+EVS00181,"7167 Random Rd, City 496, Country",AC Nível 2,0.14,6:00-22:00,5.29,79,Ionity,22,"Type 2, Tesla",2019,Não,2026-04-04 0:00:00,6,Anual
+EVS00182,"7953 Seoul Ave, Seoul",AC Level 1,0.3,2026-07-24 0:00:00,4.23,38,Ionity,22,"Type 2, Tesla",2015,Não,2026-04-04 0:00:00,9,Trimestral
+EVS00183,"4051 São Paulo Ave, São Paulo",AC Level 1,0.19,2026-07-24 0:00:00,7.58,75,EVgo,350,"Tesla, Type 2",2023,Sim,2026-05-04 0:00:00,3,Mensal
+EVS00184,"4717 Mexico City Ave, Mexico City",Carregador Rápido DC,0.27,6:00-22:00,16.86,12,ChargePoint,150,"CCS, CHAdeMO",2022,Não,2026-03-03 0:00:00,1,Anual
+EVS00185,"8712 São Paulo Ave, São Paulo",AC Nível 2,0.48,9:00-18:00,4.83,13,Greenlots,150,CHAdeMO,2021,Não,5.0,10,Trimestral
+EVS00186,"2955 Mexico City Ave, Mexico City",AC Level 1,0.31,6:00-22:00,11.61,35,Tesla,150,"CCS, CHAdeMO",2020,Não,2026-01-04 0:00:00,4,Anual
+EVS00187,"5172 Mumbai Ave, Mumbai",Carregador Rápido DC,0.31,6:00-22:00,3.65,23,EVgo,50,Tesla,2011,Não,2026-04-04 0:00:00,9,Mensal
+EVS00188,"662 Toronto Ave, Toronto",Carregador Rápido DC,0.35,2026-07-24 0:00:00,18.49,15,Greenlots,22,Type 2,2022,Sim,2026-06-03 0:00:00,2,Trimestral
+EVS00189,"4948 Bangkok Ave, Bangkok",AC Level 1,0.48,6:00-22:00,4.24,28,Ionity,22,CHAdeMO,2022,Não,2026-01-03 0:00:00,7,Trimestral
+EVS00190,"5090 Bangkok Ave, Bangkok",AC Level 1,0.44,2026-07-24 0:00:00,19.45,79,Greenlots,350,CCS,2011,Não,2026-04-03 0:00:00,7,Anual
+EVS00191,"9687 Random Rd, City 275, Country",AC Nível 2,0.25,2026-07-24 0:00:00,1.49,78,Ionity,150,"Type 2, Tesla",2017,Sim,2026-03-04 0:00:00,2,Trimestral
+EVS00192,"950 Mexico City Ave, Mexico City",Carregador Rápido DC,0.23,2026-07-24 0:00:00,17.85,56,EVgo,50,CHAdeMO,2012,Não,2026-02-03 0:00:00,5,Trimestral
+EVS00193,"4932 Mumbai Ave, Mumbai",AC Nível 2,0.15,9:00-18:00,11.54,58,ChargePoint,50,Type 2,2011,Não,2026-09-04 0:00:00,2,Anual
+EVS00194,"103 Berlin Ave, Berlin",AC Level 1,0.26,9:00-18:00,9.22,70,Tesla,350,CHAdeMO,2012,Sim,2026-08-03 0:00:00,7,Trimestral
+EVS00195,"8558 Toronto Ave, Toronto",Carregador Rápido DC,0.48,9:00-18:00,11.94,95,EVgo,150,CHAdeMO,2010,Não,2026-09-03 0:00:00,4,Trimestral
+EVS00196,"8293 São Paulo Ave, São Paulo",AC Level 1,0.11,9:00-18:00,2026-01-08 0:00:00,30,ChargePoint,350,Tesla,2023,Não,2026-03-04 0:00:00,5,Mensal
+EVS00197,"9086 Moscow Ave, Moscow",AC Level 1,0.36,2026-07-24 0:00:00,14.41,31,Tesla,50,"CHAdeMO, Tesla",2011,Sim,2026-05-03 0:00:00,7,Mensal
+EVS00198,"2447 Berlin Ave, Berlin",AC Level 1,0.14,9:00-18:00,4.39,92,EVgo,350,Tesla,2014,Sim,2026-08-04 0:00:00,10,Trimestral
+EVS00199,"6519 Dubai Ave, Dubai",Carregador Rápido DC,0.29,2026-07-24 0:00:00,5.79,45,Greenlots,150,"Tesla, CHAdeMO",2019,Não,2026-08-04 0:00:00,9,Mensal
+EVS00200,"9336 Los Angeles Ave, Los Angeles",Carregador Rápido DC,0.33,9:00-18:00,2.22,17,Tesla,350,CCS,2011,Sim,2026-03-03 0:00:00,10,Trimestral
